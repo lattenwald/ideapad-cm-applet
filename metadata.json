@@ -1,0 +1,5 @@
+{
+    "description": "Turn battery conservation mode on and off",
+    "uuid": "ideapad-cm@lattenwald.org",
+    "name": "Battery Conservation Mode"
+}
